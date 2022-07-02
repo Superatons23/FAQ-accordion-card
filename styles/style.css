@@ -26,11 +26,13 @@ body {
   );
 }
 .attribution {
+  margin-top: 10px;
   font-size: 11px;
   text-align: center;
+  color: var(--light-grayish-blue);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--soft-red);
 }
 .card {
   margin-top: 8rem;
