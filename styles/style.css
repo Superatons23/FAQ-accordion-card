@@ -106,6 +106,8 @@ body {
 }
 @media (min-width: 820px) {
   .card {
+    margin-top: 0;
+    margin-bottom: 0;
     height: 509px;
     width: 55rem !important;
   }
